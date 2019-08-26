@@ -1,1 +1,1 @@
-# inventory-service
+# magellan-inventory-service
